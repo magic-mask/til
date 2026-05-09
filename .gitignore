@@ -1,0 +1,7 @@
+# python virtual environment
+venv/
+.venv/
+.python-version
+uv.lock
+__pycache__/
+*.pyc
